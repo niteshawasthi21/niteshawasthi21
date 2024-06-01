@@ -6,7 +6,7 @@
 
 ## About Me 🚀
 
-I am a dedicated Front End Developer with over 2 years of experience specializing in Angular. Currently, I am working at Knoxpo Solutions Pvt. Ltd., where I collaborate with cross-functional teams to create high-quality, scalable web applications.
+I am a skilled Software Engineer with over 2 years of experience in designing, developing, and maintaining web applications using modern technologies. Proven ability to collaborate with cross-functional teams, deliver high-quality code, and enhance user experiences. Expertise in Angular, TypeScript, and JavaScript, with a strong background in both front-end and back-end integration.
 
 - 🔭 I’m currently working on projects related to SLB (Schlumberger) and internal company tools.
 - 🌱 I’m currently enhancing my skills in advanced Angular features and best practices.
@@ -22,10 +22,11 @@ I am a dedicated Front End Developer with over 2 years of experience specializin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![RxJs](https://img.shields.io/badge/-RxJs-B7178C?style=flat&logo=reactivex&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ## GitHub Stats 📈
 
@@ -37,23 +38,19 @@ I am a dedicated Front End Developer with over 2 years of experience specializin
 
 ## Work Experience 💼
 
-### Jr. Angular Developer
-**Knoxpo Solutions Pvt. Ltd.** (05/2023 - Present)
-- Enhanced functionality and user experience of software applications for SLB.
-- Maintained 15+ web applications using Angular 15, improving user engagement by 25%.
-- Engineered a custom Angular feature for dynamic data visualization, boosting user satisfaction by 30%.
+### Jr. Software Engineer
+**Knoxpo Solutions Pvt. Ltd.** (May 2023 – Present)
+- Enhanced software application functionality and user experience for the Oil & Gas sector using Angular and TypeScript.
+- Developed and maintained 15+ scalable web applications with Angular 15, resulting in a 25% increase in user engagement metrics.
+- Created a custom Angular feature for dynamic data visualization, boosting user engagement and customer satisfaction by 30%.
+- Worked closely with cross-functional teams to design and implement new features, ensuring software reliability and performance through effective debugging and issue resolution.
 
 ### Associate Software Engineer
-**WalkingTree Technologies** (06/2022 - 04/2023)
-- Led development in the Oil & Gas sector, focusing on bug fixes and new functionalities.
-- Designed intuitive user interfaces, enhancing usability by 30%.
-- Collaborated with clients and backend teams to align with business objectives and ensure integration.
-
-### Trainee Associate Software Engineer
-**WalkingTree Technologies** (01/2022 - 06/2022)
-- Enhanced proficiency in HTML, CSS, and JavaScript.
-- Integrated Angular and TypeScript functionalities to optimize performance.
-- Contributed to continuous project workflow improvements.
+**WalkingTree Technologies Pvt Ltd.** (Jan 2022 - Apr 2023)
+- Led development initiatives for software platforms in the Oil & Gas sector, focusing on bug fixes and new feature integration.
+- Designed user-friendly interfaces to improve usability and user experience.
+- Actively engaged in client meetings to gather requirements and provide technical insights, contributing to a 30% improvement in user experience through real-time feedback integration.
+- Coordinated with back-end teams and senior leads to ensure seamless integration of front-end and back-end components.
 
 ## Projects 🚀
 
@@ -67,25 +64,24 @@ I am a dedicated Front End Developer with over 2 years of experience specializin
 
 ### [DDO](https://github.com/niteshawasthi21/ddo)
 - Internal company project for maintaining employee data.
-- Implemented coding standards and version control best practices.
+- Implemented best practices in coding standards and version control to optimize project efficiency and maintain code integrity.
 
 ## Education 🎓
 
-**Bachelor of Computer Application**
-Naraina College of Management, 2021
+**Bachelor of Computer Application** |
+Naraina College of Management (Aug 2018 - Sep 2021)
 
 ## Languages 🌐
 
 - **Hindi**: Native or Bilingual Proficiency
-- **English**: Professional Working Proficiency
+- **English**: Working Proficiency
 
 ## Hobbies & Interests 🎨
 
-- Reading Tech Articles
 - Photography
+- Reading Tech Articles
 
 ## Connect with Me 🌐
 
 [![Linkedin: niteshawasthi21](https://img.shields.io/badge/-Nitesh%20Awasthi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niteshawasthi21/)](https://www.linkedin.com/in/niteshawasthi21/)
 [![Email: tonyawasthi8586@gmail.com](https://img.shields.io/badge/-tonyawasthi8586@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:tonyawasthi8586@gmail.com)](mailto:tonyawasthi8586@gmail.com)
-
